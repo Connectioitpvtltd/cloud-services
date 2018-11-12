@@ -1,0 +1,76 @@
+Platform for IT Infrastructure
+
+The AWS Cloud provides a wide range of infrastructure services, such as Durable Storage, Compute, Database, Management Tools and many other services, with pay for what you use
+
+Amazon Web services provide building blocks that you can assemble quickly to support virtually any workload, adjust them as you need to change without the upfront cost of on-going commitments and only pay for what you use.
+
+Let us make it in a simple this way, with your building applications for colleagues or consumers, for Enterprise support or E-commerce with Amazon Web services you find a complete set of highly available services which design to work together to built sophisticated scalable applications. Delivered over the internet, you have on-demand access for highly durable storage, low-cost computing, high-performance databases, and tools to manage these applications all available at upfront cost only pay for what you use.
+
+High Durable Storage
+
+                 Amazon
+                 Glacier
+
+               Amazon
+                    S3
+
+                    Amazon
+                       EBS
+
+ 
+
+Low-Cost Compute
+
+Amazon EC2
+High-performance Database
+
+       Amazon
+        Redshift
+
+      Amazon
+      Dynamo DB
+
+     Amazon
+      Elasticache
+
+       Amazon
+        RDS
+
+ 
+
+Tools to Manage these Resources
+
+       Amazon
+    Cloud Watch
+
+        AWS
+         IAM
+
+         AWS
+  Cloud Formation
+
+     AWS Elastic
+       Beanstalk
+
+ 
+
+So let’s say that you are building a database driven application where high availability & low cost are important, you can use AWS to store your important documents & files with storage services designed for level9 to durability and power your App with relational/non-relational databases. Now you have reliable manage databases up and running in minutes across multiple geographically isolated data centers for redundancy & availability.
+
+You can redeploy your applications using the tools and languages you are used to either with full administrative root services or as a pre-packaged app such as SAP-Business objects, Micro strategy-“Best in business intelligence, the Microsoft-share point which is all available from AWS marketplace. Some of the Tools and Applications we use to deploy applications are:
+
+Tools	Applications
+Chef	PHP
+Puppet	Java
+Visual Studio	Ruby / Python
+Eclipse	.NET / Node.JS
+ 
+
+You will find a lot of selection of computational resources to power your applications with support for I/O, storage & CPU intensive workloads. Experimentation becomes an easy & low risk, with on-demand access to wide range of hardware configurations & flexibility to evaluate and run virtually any technology or two. Like Windows, Linux, SAP.Plus your infrastructure can grow & shrink automatically as you need to change.
+
+You can round up your applications with low balancing domain name services, a global content delivery network & automate everything with wide ray of SDK’S. Working with your data is easy too, with simple tools to integrate, import/export, manage Hadoop cluster, spinout petabyte-scale data federate identity and build complaint secure environment which integrates into existing infrastructure via privately dedicated connectivity.
+
+You also have the access to the fine grade network & identity management, security certification & access controls to your organizations’ needs. With AWS you will find the complete platform, ready to use virtually to any workloads. For business applications, Bigdata or building a games AWS gives access to the resources you need to create sophisticated, scalable applications of any size or shape.
+
+We invest what you are with IT using Amazon Web Services
+
+FacebookTwitterLinkedInGoogle +Email
