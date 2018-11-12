@@ -1,0 +1,57 @@
+Cloud Computing:
+
+The Cloud Computing is the practice of using a network of remote servers hosted on the internet to store, manage and process data, rather than a local server or a personal computer. i.e., the cloud is basically service model that provides the services such as Software as a Service (SaaS), Platform as a Service (PaaS), and Infrastructure as a Service (IaaS) over the internet to the service taken by the clients anywhere in the world. It provides great computational abilities at very low cost and it is much faster to deploy.
+
+IaaS-Infrastructure as a Service:
+
+It is the form of cloud computing that provides virtualized computing services over the internet. In IaaS model a third party provider hosts hardware, software services, storage and other infrastructure components.
+
+PaaS-Platform as a Service:
+
+It is a service that offers services that provide a platform allowing customers to develop run and manage web applications without the complexity of building and maintaining the infrastructure typically associated with developing and launching an application.
+
+SaaS-Software as a Service:
+
+It is a kind of software licensing delivery model in which software is licensed on a subscription basis and it is centrally hosted. It has been a very famous delivery model for many business applications such as database management software, management software, customer relationship management software and enterprise resource planning. SaaS has been incorporated into the strategy of all the leading enterprise software companies.
+
+Main Advantages of cloud computing:
+
+Reduce spending on technology infrastructure.
+
+Achieve economy on the scale.
+
+Improve accessibility.
+
+Improve flexibility.
+
+Globalize your workforce.
+
+Streamline processes.
+
+Security issues in Cloud Computing:
+
+Coming back security issues in cloud computing,
+
+Data security in service models offered by the cloud. When we talk about the data security, we should talk specifically about Software as a Service and Storage as a Service. These are the two service models that deal majorly with data storage. The data security in software as a service and storage as a service is a major problem.
+
+Data integrity in the services offered by the cloud, how the data is being manipulated or how the data backups being made by the cloud service provider is again another issue for the client is worried about is a big issue as a client as well.
+
+Data localization, when we talk about data localization it means the availability of the cloud service model in a particular area as sometimes a cloud service model would have data centers in various locations which would lead the data from one data center to another data center.
+
+Data Auditing, the data maintenance process on the cloud service model side or the cloud service provider side should be available for audits by the clients.
+
+Amazon Web Services:
+
+Elastic computing
+EBS
+When we talk about Amazon Web Services, we talk mainly about Amazon elastic compute cloud. It is a central part of Amazon’s cloud computing platform. It allows the users to rent virtual computers on which they run their own computer applications. It is scalable and it runs by creating a virtual machine by booting an Amazon machine image on the virtual machine.
+
+EBS is a kind of storage service and it is persistent storage independent of a lifetime of the EC2 and it acts like hard drives.
+
+Amazon also provides Elastic IP Address which can be programmed and mapped to any virtual instance without network administrations help and this increase the client’s interest. Amazon also provides the clients with web service called Amazon cloud watch which provides the real-time monitoring of class customers resource utilization such as CPU, Disk, and Network. The cloud watch does not provide any memory or disk space or load average metrics without running additional software instance. So the metrics collected by cloud watch enables the auto-scaling features to dynamically add/remove instances.
+
+Conclusion:
+
+It is also vital that the need of clients be understood and proper data auditing tools should be made available for the clients.
+
+By addressing the data security issues and also by implementing the new algorithms and new cryptography technologies, data should be made more secure, as it would result in an exponential increase in the utilization of the cloud computing resources.
